@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "InheritProject",
+        "ClassProject",
+        "StringProject",
+        "ArrayListProject",
+        "FileIO1Project",
+        "GUI1Project"
+    ]
+}
